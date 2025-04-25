@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/MEDIEVAL_ASSETS/KayKit Dungeon Pack 1.0.meta
 guid: 6d93923dd633a47e28521ecf33ba0bd6
+========
+guid: 80cebeadcecc54915830ab9d5736fdcd
+>>>>>>>> parent of c72663e (COMOIRIRTT!!):Assets/MEDIEVAL_ASSETS/KayKit Dungeon Pack 1.0/Models/Characters.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
